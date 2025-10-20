@@ -1,6 +1,7 @@
 ---
-title: "R Notebook"
+title: "Tarea 4"
 output: html_notebook
+author: "Sergio Rolando Hernandez Perez 999017213"
 ---
 
 ```{r}
